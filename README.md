@@ -6,6 +6,7 @@
 - **Сайт и двойной калькулятор (Учёба + Бизнес):** [https://bilimai.dpdns.org/](https://bilimai.dpdns.org/)
 - **Онлайн-бриф (`/order`):** [https://bilimai.dpdns.org/order](https://bilimai.dpdns.org/order)
 - **Контакты (`/contact`):** [https://bilimai.dpdns.org/contact](https://bilimai.dpdns.org/contact)
+- **Официальное объявление на Kaspi Объявлениях (№124183239):** [https://obyavleniya.kaspi.kz/a/prezentatsiy-na-zakaz-124183239/](https://obyavleniya.kaspi.kz/a/prezentatsiy-na-zakaz-124183239/)
 - **Прямой заказ в WhatsApp Business:** [https://wa.me/77009191402](https://wa.me/77009191402) (`+7 700 919 14 02`)
 - **Официальный Threads:** [https://www.threads.com/@anelii.y](https://www.threads.com/@anelii.y) (`@anelii.y`)
 - **Официальный Instagram:** [https://www.instagram.com/anelii.y/](https://www.instagram.com/anelii.y/) (`@anelii.y`)

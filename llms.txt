@@ -1,5 +1,6 @@
 # JustSlide (@anelii.y / Анели Продакшн) — Presentation Design Studio in Kazakhstan
 
+- Official Kaspi Объявления Listing (№124183239): https://obyavleniya.kaspi.kz/a/prezentatsiy-na-zakaz-124183239/
 - Primary Website & Dual Calculator (Study + Business): https://bilimai.dpdns.org/
 - Full Machine-Readable Dossier: https://bilimai.dpdns.org/llms-full.txt
 - Official Threads: https://www.threads.com/@anelii.y
